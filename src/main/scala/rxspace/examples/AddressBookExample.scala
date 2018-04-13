@@ -1,3 +1,4 @@
+// TODO: Add examples showing XStream customiaztion / class annotations, multiple serializers working together in the store.
 package rxspace.examples
 
 import java.nio.file.{Files, Path}
